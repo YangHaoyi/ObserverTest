@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/menu/ArcNavigationView-master/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/app/src/main/java/com/reachauto/hkr/activity/BootActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/rentalorder/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/2017/rebuild/HKr_IceAge/userinfomodule/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/observer/src/main/java/com/yhy/observer/CurrentConditionsDisplay.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/observer/src/main/java/com/yhy/observer/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/observer/src/main/java/com/yhy/observer/Observer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/observer/src/main/java/com/yhy/observer/Subject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/observer/src/main/java/com/yhy/observer/WeahterScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/observer/src/main/java/com/yhy/observer/WeatherData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
